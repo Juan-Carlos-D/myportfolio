@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.2982b367.css",
+    "main.js": "/myportfolio/static/js/main.4cac1498.js",
+    "static/media/aboutthree.jpg": "/myportfolio/static/media/aboutthree.9a5b983ef27d23624a70.jpg",
+    "static/media/photographyport.png": "/myportfolio/static/media/photographyport.43002e69df625bb9c196.png",
+    "static/media/unsplashapi.png": "/myportfolio/static/media/unsplashapi.65d32ad5eed2dfdf5e96.png",
+    "static/media/devcali05.png": "/myportfolio/static/media/devcali05.48acfc67d8026e52f817.png",
+    "static/media/twitterpage.png": "/myportfolio/static/media/twitterpage.386dd62ec9246d251bac.png",
+    "static/media/me2.png": "/myportfolio/static/media/me2.2ead6110afd356eea167.png",
+    "static/media/neuralnetwork.png": "/myportfolio/static/media/neuralnetwork.f17618bb5cf42dcda931.png",
+    "static/media/Resume.pdf": "/myportfolio/static/media/Resume.ed56916767c0e2562c35.pdf",
+    "static/media/pokedex2.png": "/myportfolio/static/media/pokedex2.7fce1b0aaa7ffdcce265.png",
+    "index.html": "/myportfolio/index.html",
+    "main.2982b367.css.map": "/myportfolio/static/css/main.2982b367.css.map",
+    "main.4cac1498.js.map": "/myportfolio/static/js/main.4cac1498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2982b367.css",
+    "static/js/main.4cac1498.js"
+  ]
+}
